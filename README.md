@@ -1,4 +1,4 @@
-# C Programs
+https://github.com/ShwethaUdyal/C-Programs
 
 Welcome to my C Programs repository!
 
